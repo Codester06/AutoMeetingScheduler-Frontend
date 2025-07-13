@@ -276,6 +276,7 @@ body {
   animation: fadeIn 0.5s ease-out;
 }
 
+
 .response-header {
   display: flex;
   align-items: center;
@@ -302,7 +303,7 @@ body {
 }
 
 .response-link {
-  color: #3b82f6;
+  color: #e8e9ec;
   text-decoration: none;
   font-weight: 500;
 }
@@ -390,4 +391,10 @@ body {
   .orb-3 {
     display: none;
   }
+}
+
+.linkWebSite{
+  text-decoration: none;
+  color: #d1d5db;
+
 }
